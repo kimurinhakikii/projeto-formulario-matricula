@@ -29,7 +29,7 @@
     &:hover,
     &:focus-within {
         .checkbox-image {
-            background-image: url(../../assets/icons/square-2.svg);
+            background-image: url(../../assets/icons/Vector.svg);
         }
     }
 
