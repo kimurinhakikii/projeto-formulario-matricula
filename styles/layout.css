@@ -1,3 +1,4 @@
+
 #app {
     display: grid;
     grid-template-columns: 51.25% 48.75%;
@@ -35,7 +36,7 @@ aside {
     & .aside-container {
         max-width: 31rem;
 
-        &>img {
+        & > img {
             margin-top: 2rem;
         }
     }
