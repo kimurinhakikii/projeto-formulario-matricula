@@ -29,11 +29,11 @@
     &:hover,
     &:focus-within {
         .checkbox-image {
-            background-image: url(../../assets/icons/Vector.svg);
+            background-image: url(../../assets/icons/square-2.svg);
         }
     }
 
     &:has(:checked) .checkbox-image {
-        background-image: url(../../assets/icons/checkmark-square-01.svg);
+        background-image: url(../../assets/icons/checkbox-checked.svg);
     }
 }
